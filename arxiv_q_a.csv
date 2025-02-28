@@ -1,0 +1,1774 @@
+Question,Answer
+What is the title of the research paper?,Lecture Notes: Optimization for Machine Learning
+What is this research paper about?,"Lecture notes on optimization for machine learning, derived from a course at
+Princeton University and tutorials given in MLSS, Buenos Aires, as well as
+Simons Foundation, Berkeley."
+Who are the authors of this paper?,Elad Hazan
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-09-08 00:00:00
+What is the title of the research paper?,An Optimal Control View of Adversarial Machine Learning
+What is this research paper about?,"I describe an optimal control view of adversarial machine learning, where the
+dynamical system is the machine learner, the input are adversarial actions, and
+the control costs are defined by the adversary's goals to do harm and be hard
+to detect."
+What is this research paper about?,"This view encompasses many types of adversarial machine learning,
+including test-item attacks, training-data poisoning, and adversarial reward
+shaping."
+What is this research paper about?,"The view encourages adversarial machine learning researcher to utilize
+advances in control theory and reinforcement learning."
+Who are the authors of this paper?,Xiaojin Zhu
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2018-11-11 00:00:00
+What is the title of the research paper?,"Minimax deviation strategies for machine learning and recognition with
+  short learning samples"
+What is this research paper about?,"The article is devoted to the problem of small learning samples in machine
+learning."
+What is this research paper about?,"The flaws of maximum likelihood learning and minimax learning are
+looked into and the concept of minimax deviation learning is introduced that is
+free of those flaws."
+Who are the authors of this paper?,"Michail Schlesinger, Evgeniy Vodolazskiy"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2017-07-16 00:00:00
+What is the title of the research paper?,Machine Learning for Clinical Predictive Analytics
+What is this research paper about?,"In this chapter, we provide a brief overview of applying machine learning
+techniques for clinical prediction tasks."
+What is this research paper about?,"We begin with a quick introduction to
+the concepts of machine learning and outline some of the most common machine
+learning algorithms."
+What is this research paper about?,"Next, we demonstrate how to apply the algorithms with
+appropriate toolkits to conduct machine learning experiments for clinical
+prediction tasks."
+What is this research paper about?,"The objectives of this chapter are to (1) understand the
+basics of machine learning techniques and the reasons behind why they are
+useful for solving clinical prediction problems, (2) understand the intuition
+behind some machine learning models, including regression, decision trees, and
+support vector machines, and (3) understand how to apply these models to
+clinical prediction problems using publicly available datasets via case
+studies."
+Who are the authors of this paper?,Wei-Hung Weng
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-09-19 00:00:00
+What is the title of the research paper?,"Towards Modular Machine Learning Solution Development: Benefits and
+  Trade-offs"
+What is this research paper about?,"Machine learning technologies have demonstrated immense capabilities in
+various domains."
+What is this research paper about?,They play a key role in the success of modern businesses.
+What is this research paper about?,"However, adoption of machine learning technologies has a lot of untouched
+potential."
+What is this research paper about?,"Cost of developing custom machine learning solutions that solve
+unique business problems is a major inhibitor to far-reaching adoption of
+machine learning technologies."
+What is this research paper about?,"We recognize that the monolithic nature
+prevalent in today's machine learning applications stands in the way of
+efficient and cost effective customized machine learning solution development."
+What is this research paper about?,"In this work we explore the benefits of modular machine learning solutions and
+discuss how modular machine learning solutions can overcome some of the major
+solution engineering limitations of monolithic machine learning solutions."
+What is this research paper about?,"We
+analyze the trade-offs between modular and monolithic machine learning
+solutions through three deep learning problems; one text based and the two
+image based."
+What is this research paper about?,"Our experimental results show that modular machine learning
+solutions have a promising potential to reap the solution engineering
+advantages of modularity while gaining performance and data advantages in a way
+the monolithic machine learning solutions do not permit."
+Who are the authors of this paper?,"Samiyuru Menik, Lakshmish Ramaswamy"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2023-01-23 00:00:00
+What is the title of the research paper?,Introduction to Machine Learning: Class Notes 67577
+What is this research paper about?,"Introduction to Machine learning covering Statistical Inference (Bayes, EM,
+ML/MaxEnt duality), algebraic and spectral methods (PCA, LDA, CCA, Clustering),
+and PAC learning (the Formal model, VC dimension, Double Sampling theorem)."
+Who are the authors of this paper?,Amnon Shashua
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2009-04-23 00:00:00
+What is the title of the research paper?,The Tribes of Machine Learning and the Realm of Computer Architecture
+What is this research paper about?,"Machine learning techniques have influenced the field of computer
+architecture like many other fields."
+What is this research paper about?,"This paper studies how the fundamental
+machine learning techniques can be applied towards computer architecture
+problems."
+What is this research paper about?,"We also provide a detailed survey of computer architecture research
+that employs different machine learning methods."
+What is this research paper about?,"Finally, we present some
+future opportunities and the outstanding challenges that need to be overcome to
+exploit full potential of machine learning for computer architecture."
+Who are the authors of this paper?,"Ayaz Akram, Jason Lowe-Power"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-12-07 00:00:00
+What is the title of the research paper?,"A Machine Learning Tutorial for Operational Meteorology, Part I:
+  Traditional Machine Learning"
+What is this research paper about?,"Recently, the use of machine learning in meteorology has increased greatly."
+What is this research paper about?,"While many machine learning methods are not new, university classes on machine
+learning are largely unavailable to meteorology students and are not required
+to become a meteorologist."
+What is this research paper about?,"The lack of formal instruction has contributed to
+perception that machine learning methods are 'black boxes' and thus end-users
+are hesitant to apply the machine learning methods in their every day workflow."
+What is this research paper about?,"To reduce the opaqueness of machine learning methods and lower hesitancy
+towards machine learning in meteorology, this paper provides a survey of some
+of the most common machine learning methods."
+What is this research paper about?,"A familiar meteorological example
+is used to contextualize the machine learning methods while also discussing
+machine learning topics using plain language."
+What is this research paper about?,"The following machine learning
+methods are demonstrated: linear regression; logistic regression; decision
+trees; random forest; gradient boosted decision trees; naive Bayes; and support
+vector machines."
+What is this research paper about?,"Beyond discussing the different methods, the paper also
+contains discussions on the general machine learning process as well as best
+practices to enable readers to apply machine learning to their own datasets."
+What is this research paper about?,"Furthermore, all code (in the form of Jupyter notebooks and Google Colaboratory
+notebooks) used to make the examples in the paper is provided in an effort to
+catalyse the use of machine learning in meteorology."
+Who are the authors of this paper?,Randy J.
+Who are the authors of this paper?,"Chase, David R. Harrison, Amanda Burke, Gary M. Lackmann, Amy McGovern"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2022-04-15 00:00:00
+What is the title of the research paper?,Position Paper: Towards Transparent Machine Learning
+What is this research paper about?,"Transparent machine learning is introduced as an alternative form of machine
+learning, where both the model and the learning system are represented in
+source code form."
+What is this research paper about?,"The goal of this project is to enable direct human
+understanding of machine learning models, giving us the ability to learn,
+verify, and refine them as programs."
+What is this research paper about?,"If solved, this technology could represent
+a best-case scenario for the safety and security of AI systems going forward."
+Who are the authors of this paper?,Dustin Juliano
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-11-12 00:00:00
+What is the title of the research paper?,Understanding Bias in Machine Learning
+What is this research paper about?,"Bias is known to be an impediment to fair decisions in many domains such as
+human resources, the public sector, health care etc."
+What is this research paper about?,"Recently, hope has been
+expressed that the use of machine learning methods for taking such decisions
+would diminish or even resolve the problem."
+What is this research paper about?,"At the same time, machine learning
+experts warn that machine learning models can be biased as well."
+What is this research paper about?,"In this
+article, our goal is to explain the issue of bias in machine learning from a
+technical perspective and to illustrate the impact that biased data can have on
+a machine learning model."
+What is this research paper about?,"To reach such a goal, we develop interactive plots to
+visualizing the bias learned from synthetic data."
+Who are the authors of this paper?,"Jindong Gu, Daniela Oelke"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-09-02 00:00:00
+What is the title of the research paper?,"A Unified Analytical Framework for Trustable Machine Learning and
+  Automation Running with Blockchain"
+What is this research paper about?,"Traditional machine learning algorithms use data from databases that are
+mutable, and therefore the data cannot be fully trusted."
+What is this research paper about?,"Also, the machine
+learning process is difficult to automate."
+What is this research paper about?,"This paper proposes building a
+trustable machine learning system by using blockchain technology, which can
+store data in a permanent and immutable way."
+What is this research paper about?,"In addition, smart contracts are
+used to automate the machine learning process."
+What is this research paper about?,"This paper makes three
+contributions."
+What is this research paper about?,"First, it establishes a link between machine learning technology
+and blockchain technology."
+What is this research paper about?,"Previously, machine learning and blockchain have
+been considered two independent technologies without an obvious link."
+What is this research paper about?,"Second,
+it proposes a unified analytical framework for trustable machine learning by
+using blockchain technology."
+What is this research paper about?,"This unified framework solves both the
+trustability and automation issues in machine learning."
+What is this research paper about?,"Third, it enables a
+computer to translate core machine learning implementation from a single thread
+on a single machine to multiple threads on multiple machines running with
+blockchain by using a unified approach."
+What is this research paper about?,"The paper uses association rule mining
+as an example to demonstrate how trustable machine learning can be implemented
+with blockchain, and it shows how this approach can be used to analyze opioid
+prescriptions to help combat the opioid crisis."
+Who are the authors of this paper?,Tao Wang
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-03-21 00:00:00
+What is the title of the research paper?,"MLBench: How Good Are Machine Learning Clouds for Binary Classification
+  Tasks on Structured Data?"
+What is this research paper about?,"We conduct an empirical study of machine learning functionalities provided by
+major cloud service providers, which we call machine learning clouds."
+What is this research paper about?,"Machine
+learning clouds hold the promise of hiding all the sophistication of running
+large-scale machine learning: Instead of specifying how to run a machine
+learning task, users only specify what machine learning task to run and the
+cloud figures out the rest."
+What is this research paper about?,"Raising the level of abstraction, however, rarely
+comes free - a performance penalty is possible."
+What is this research paper about?,"How good, then, are current
+machine learning clouds on real-world machine learning workloads?"
+What is this research paper about?,We study this question with a focus on binary classication problems.
+What is this research paper about?,"We
+present mlbench, a novel benchmark constructed by harvesting datasets from
+Kaggle competitions."
+What is this research paper about?,"We then compare the performance of the top winning code
+available from Kaggle with that of running machine learning clouds from both
+Azure and Amazon on mlbench."
+What is this research paper about?,"Our comparative study reveals the strength and
+weakness of existing machine learning clouds and points out potential future
+directions for improvement."
+Who are the authors of this paper?,"Yu Liu, Hantian Zhang, Luyuan Zeng, Wentao Wu, Ce Zhang"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2017-07-29 00:00:00
+What is the title of the research paper?,Data Pricing in Machine Learning Pipelines
+What is this research paper about?,Machine learning is disruptive.
+What is this research paper about?,"At the same time, machine learning can only
+succeed by collaboration among many parties in multiple steps naturally as
+pipelines in an eco-system, such as collecting data for possible machine
+learning applications, collaboratively training models by multiple parties and
+delivering machine learning services to end users."
+What is this research paper about?,"Data is critical and
+penetrating in the whole machine learning pipelines."
+What is this research paper about?,"As machine learning
+pipelines involve many parties and, in order to be successful, have to form a
+constructive and dynamic eco-system, marketplaces and data pricing are
+fundamental in connecting and facilitating those many parties."
+What is this research paper about?,"In this article,
+we survey the principles and the latest research development of data pricing in
+machine learning pipelines."
+What is this research paper about?,"We start with a brief review of data marketplaces
+and pricing desiderata."
+What is this research paper about?,"Then, we focus on pricing in three important steps in
+machine learning pipelines."
+What is this research paper about?,"To understand pricing in the step of training data
+collection, we review pricing raw data sets and data labels."
+What is this research paper about?,"We also
+investigate pricing in the step of collaborative training of machine learning
+models, and overview pricing machine learning models for end users in the step
+of machine learning deployment."
+What is this research paper about?,"We also discuss a series of possible future
+directions."
+Who are the authors of this paper?,"Zicun Cong, Xuan Luo, Pei Jian, Feida Zhu, Yong Zhang"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-08-18 00:00:00
+What is the title of the research paper?,Techniques for Automated Machine Learning
+What is this research paper about?,"Automated machine learning (AutoML) aims to find optimal machine learning
+solutions automatically given a machine learning problem."
+What is this research paper about?,"It could release the
+burden of data scientists from the multifarious manual tuning process and
+enable the access of domain experts to the off-the-shelf machine learning
+solutions without extensive experience."
+What is this research paper about?,"In this paper, we review the current
+developments of AutoML in terms of three categories, automated feature
+engineering (AutoFE), automated model and hyperparameter learning (AutoMHL),
+and automated deep learning (AutoDL)."
+What is this research paper about?,"State-of-the-art techniques adopted in
+the three categories are presented, including Bayesian optimization,
+reinforcement learning, evolutionary algorithm, and gradient-based approaches."
+What is this research paper about?,"We summarize popular AutoML frameworks and conclude with current open
+challenges of AutoML."
+Who are the authors of this paper?,"Yi-Wei Chen, Qingquan Song, Xia Hu"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-07-21 00:00:00
+What is the title of the research paper?,"The Landscape of Modern Machine Learning: A Review of Machine,
+  Distributed and Federated Learning"
+What is this research paper about?,"With the advance of the powerful heterogeneous, parallel and distributed
+computing systems and ever increasing immense amount of data, machine learning
+has become an indispensable part of cutting-edge technology, scientific
+research and consumer products."
+What is this research paper about?,"In this study, we present a review of modern
+machine and deep learning."
+What is this research paper about?,"We provide a high-level overview for the latest
+advanced machine learning algorithms, applications, and frameworks."
+What is this research paper about?,"Our
+discussion encompasses parallel distributed learning, deep learning as well as
+federated learning."
+What is this research paper about?,"As a result, our work serves as an introductory text to the
+vast field of modern machine learning."
+Who are the authors of this paper?,"Omer Subasi, Oceane Bel, Joseph Manzano, Kevin Barker"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2023-12-05 00:00:00
+What is the title of the research paper?,"Parallelization of Machine Learning Algorithms Respectively on Single
+  Machine and Spark"
+What is this research paper about?,"With the rapid development of big data technologies, how to dig out useful
+information from massive data becomes an essential problem."
+What is this research paper about?,"However, using
+machine learning algorithms to analyze large data may be time-consuming and
+inefficient on the traditional single machine."
+What is this research paper about?,"To solve these problems, this
+paper has made some research on the parallelization of several classic machine
+learning algorithms respectively on the single machine and the big data
+platform Spark."
+What is this research paper about?,"We compare the runtime and efficiency of traditional machine
+learning algorithms with parallelized machine learning algorithms respectively
+on the single machine and Spark platform."
+What is this research paper about?,"The research results have shown
+significant improvement in runtime and efficiency of parallelized machine
+learning algorithms."
+Who are the authors of this paper?,Jiajun Shen
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2022-05-08 00:00:00
+What is the title of the research paper?,AutoCompete: A Framework for Machine Learning Competition
+What is this research paper about?,"In this paper, we propose AutoCompete, a highly automated machine learning
+framework for tackling machine learning competitions."
+What is this research paper about?,"This framework has been
+learned by us, validated and improved over a period of more than two years by
+participating in online machine learning competitions."
+What is this research paper about?,"It aims at minimizing
+human interference required to build a first useful predictive model and to
+assess the practical difficulty of a given machine learning challenge."
+What is this research paper about?,"The
+proposed system helps in identifying data types, choosing a machine learn- ing
+model, tuning hyper-parameters, avoiding over-fitting and optimization for a
+provided evaluation metric."
+What is this research paper about?,"We also observe that the proposed system produces
+better (or comparable) results with less runtime as compared to other
+approaches."
+Who are the authors of this paper?,"Abhishek Thakur, Artus Krohn-Grimberghe"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2015-07-08 00:00:00
+What is the title of the research paper?,Joint Training of Deep Boltzmann Machines
+What is this research paper about?,We introduce a new method for training deep Boltzmann machines jointly.
+What is this research paper about?,"Prior
+methods require an initial learning pass that trains the deep Boltzmann machine
+greedily, one layer at a time, or do not perform well on classifi- cation
+tasks."
+Who are the authors of this paper?,"Ian Goodfellow, Aaron Courville, Yoshua Bengio"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2012-12-12 00:00:00
+What is the title of the research paper?,"Proceedings of the 2016 ICML Workshop on #Data4Good: Machine Learning in
+  Social Good Applications"
+What is this research paper about?,"This is the Proceedings of the ICML Workshop on #Data4Good: Machine Learning
+in Social Good Applications, which was held on June 24, 2016 in New York."
+Who are the authors of this paper?,Kush R. Varshney
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2016-07-08 00:00:00
+What is the title of the research paper?,Mathematical Perspective of Machine Learning
+What is this research paper about?,"We take a closer look at some theoretical challenges of Machine Learning as a
+function approximation, gradient descent as the default optimization algorithm,
+limitations of fixed length and width networks and a different approach to RNNs
+from a mathematical perspective."
+Who are the authors of this paper?,Yarema Boryshchak
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-07-03 00:00:00
+What is the title of the research paper?,Private Machine Learning via Randomised Response
+What is this research paper about?,"We introduce a general learning framework for private machine learning based
+on randomised response."
+What is this research paper about?,"Our assumption is that all actors are potentially
+adversarial and as such we trust only to release a single noisy version of an
+individual's datapoint."
+What is this research paper about?,"We discuss a general approach that forms a consistent
+way to estimate the true underlying machine learning model and demonstrate this
+in the case of logistic regression."
+Who are the authors of this paper?,David Barber
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-01-14 00:00:00
+What is the title of the research paper?,Ten-year Survival Prediction for Breast Cancer Patients
+What is this research paper about?,"This report assesses different machine learning approaches to 10-year
+survival prediction of breast cancer patients."
+Who are the authors of this paper?,"Changmao Li, Han He, Yunze Hao, Caleb Ziems"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-11-02 00:00:00
+What is the title of the research paper?,A Survey of Optimization Methods from a Machine Learning Perspective
+What is this research paper about?,"Machine learning develops rapidly, which has made many theoretical
+breakthroughs and is widely applied in various fields."
+What is this research paper about?,"Optimization, as an
+important part of machine learning, has attracted much attention of
+researchers."
+What is this research paper about?,"With the exponential growth of data amount and the increase of
+model complexity, optimization methods in machine learning face more and more
+challenges."
+What is this research paper about?,"A lot of work on solving optimization problems or improving
+optimization methods in machine learning has been proposed successively."
+What is this research paper about?,"The
+systematic retrospect and summary of the optimization methods from the
+perspective of machine learning are of great significance, which can offer
+guidance for both developments of optimization and machine learning research."
+What is this research paper about?,"In this paper, we first describe the optimization problems in machine learning."
+What is this research paper about?,"Then, we introduce the principles and progresses of commonly used optimization
+methods."
+What is this research paper about?,"Next, we summarize the applications and developments of optimization
+methods in some popular machine learning fields."
+What is this research paper about?,"Finally, we explore and give
+some challenges and open problems for the optimization in machine learning."
+Who are the authors of this paper?,"Shiliang Sun, Zehui Cao, Han Zhu, Jing Zhao"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-06-17 00:00:00
+What is the title of the research paper?,When Machine Learning Meets Privacy: A Survey and Outlook
+What is this research paper about?,The newly emerged machine learning (e.g.
+What is this research paper about?,"deep learning) methods have become a
+strong driving force to revolutionize a wide range of industries, such as smart
+healthcare, financial technology, and surveillance systems."
+What is this research paper about?,"Meanwhile, privacy
+has emerged as a big concern in this machine learning-based artificial
+intelligence era."
+What is this research paper about?,"It is important to note that the problem of privacy
+preservation in the context of machine learning is quite different from that in
+traditional data privacy protection, as machine learning can act as both friend
+and foe."
+What is this research paper about?,"Currently, the work on the preservation of privacy and machine
+learning (ML) is still in an infancy stage, as most existing solutions only
+focus on privacy problems during the machine learning process."
+What is this research paper about?,"Therefore, a
+comprehensive study on the privacy preservation problems and machine learning
+is required."
+What is this research paper about?,"This paper surveys the state of the art in privacy issues and
+solutions for machine learning."
+What is this research paper about?,"The survey covers three categories of
+interactions between privacy and machine learning: (i) private machine
+learning, (ii) machine learning aided privacy protection, and (iii) machine
+learning-based privacy attack and corresponding protection schemes."
+What is this research paper about?,"The current
+research progress in each category is reviewed and the key challenges are
+identified."
+What is this research paper about?,"Finally, based on our in-depth analysis of the area of privacy and
+machine learning, we point out future research directions in this field."
+Who are the authors of this paper?,"Bo Liu, Ming Ding, Sina Shaham, Wenny Rahayu, Farhad Farokhi, Zihuai Lin"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-11-24 00:00:00
+What is the title of the research paper?,Augmented Q Imitation Learning (AQIL)
+What is this research paper about?,"The study of unsupervised learning can be generally divided into two
+categories: imitation learning and reinforcement learning."
+What is this research paper about?,"In imitation
+learning the machine learns by mimicking the behavior of an expert system
+whereas in reinforcement learning the machine learns via direct environment
+feedback."
+What is this research paper about?,"Traditional deep reinforcement learning takes a significant time
+before the machine starts to converge to an optimal policy."
+What is this research paper about?,"This paper proposes
+Augmented Q-Imitation-Learning, a method by which deep reinforcement learning
+convergence can be accelerated by applying Q-imitation-learning as the initial
+training process in traditional Deep Q-learning."
+Who are the authors of this paper?,"Xiao Lei Zhang, Anish Agarwal"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-03-31 00:00:00
+What is the title of the research paper?,Probabilistic Machine Learning for Healthcare
+What is this research paper about?,Machine learning can be used to make sense of healthcare data.
+What is this research paper about?,"Probabilistic
+machine learning models help provide a complete picture of observed data in
+healthcare."
+What is this research paper about?,"In this review, we examine how probabilistic machine learning can
+advance healthcare."
+What is this research paper about?,"We consider challenges in the predictive model building
+pipeline where probabilistic models can be beneficial including calibration and
+missing data."
+What is this research paper about?,"Beyond predictive models, we also investigate the utility of
+probabilistic machine learning models in phenotyping, in generative models for
+clinical use cases, and in reinforcement learning."
+Who are the authors of this paper?,"Irene Y. Chen, Shalmali Joshi, Marzyeh Ghassemi, Rajesh Ranganath"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-09-23 00:00:00
+What is the title of the research paper?,Evaluation Challenges for Geospatial ML
+What is this research paper about?,"As geospatial machine learning models and maps derived from their predictions
+are increasingly used for downstream analyses in science and policy, it is
+imperative to evaluate their accuracy and applicability."
+What is this research paper about?,"Geospatial machine
+learning has key distinctions from other learning paradigms, and as such, the
+correct way to measure performance of spatial machine learning outputs has been
+a topic of debate."
+What is this research paper about?,"In this paper, I delineate unique challenges of model
+evaluation for geospatial machine learning with global or remotely sensed
+datasets, culminating in concrete takeaways to improve evaluations of
+geospatial model performance."
+Who are the authors of this paper?,Esther Rolf
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2023-03-31 00:00:00
+What is the title of the research paper?,"A comprehensive review of Quantum Machine Learning: from NISQ to Fault
+  Tolerance"
+What is this research paper about?,"Quantum machine learning, which involves running machine learning algorithms
+on quantum devices, has garnered significant attention in both academic and
+business circles."
+What is this research paper about?,"In this paper, we offer a comprehensive and unbiased review
+of the various concepts that have emerged in the field of quantum machine
+learning."
+What is this research paper about?,"This includes techniques used in Noisy Intermediate-Scale Quantum
+(NISQ) technologies and approaches for algorithms compatible with
+fault-tolerant quantum computing hardware."
+What is this research paper about?,"Our review covers fundamental
+concepts, algorithms, and the statistical learning theory pertinent to quantum
+machine learning."
+Who are the authors of this paper?,"Yunfei Wang, Junyu Liu"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2024-01-21 00:00:00
+What is the title of the research paper?,"Towards CRISP-ML(Q): A Machine Learning Process Model with Quality
+  Assurance Methodology"
+What is this research paper about?,"Machine learning is an established and frequently used technique in industry
+and academia but a standard process model to improve success and efficiency of
+machine learning applications is still missing."
+What is this research paper about?,"Project organizations and
+machine learning practitioners have a need for guidance throughout the life
+cycle of a machine learning application to meet business expectations."
+What is this research paper about?,"We
+therefore propose a process model for the development of machine learning
+applications, that covers six phases from defining the scope to maintaining the
+deployed machine learning application."
+What is this research paper about?,"The first phase combines business and
+data understanding as data availability oftentimes affects the feasibility of
+the project."
+What is this research paper about?,"The sixth phase covers state-of-the-art approaches for monitoring
+and maintenance of a machine learning applications, as the risk of model
+degradation in a changing environment is eminent."
+What is this research paper about?,"With each task of the
+process, we propose quality assurance methodology that is suitable to adress
+challenges in machine learning development that we identify in form of risks."
+What is this research paper about?,"The methodology is drawn from practical experience and scientific literature
+and has proven to be general and stable."
+What is this research paper about?,"The process model expands on CRISP-DM,
+a data mining process model that enjoys strong industry support but lacks to
+address machine learning specific tasks."
+What is this research paper about?,"Our work proposes an industry and
+application neutral process model tailored for machine learning applications
+with focus on technical tasks for quality assurance."
+Who are the authors of this paper?,"Stefan Studer, Thanh Binh Bui, Christian Drescher, Alexander Hanuschkin, Ludwig Winkler, Steven Peters, Klaus-Robert Mueller"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-03-11 00:00:00
+What is the title of the research paper?,"Temporal-related Convolutional-Restricted-Boltzmann-Machine capable of
+  learning relational order via reinforcement learning procedure?"
+What is this research paper about?,"In this article, we extend the conventional framework of
+convolutional-Restricted-Boltzmann-Machine to learn highly abstract features
+among abitrary number of time related input maps by constructing a layer of
+multiplicative units, which capture the relations among inputs."
+What is this research paper about?,"In many cases,
+more than two maps are strongly related, so it is wise to make multiplicative
+unit learn relations among more input maps, in other words, to find the optimal
+relational-order of each unit."
+What is this research paper about?,"In order to enable our machine to learn
+relational order, we developed a reinforcement-learning method whose optimality
+is proven to train the network."
+Who are the authors of this paper?,Zizhuang Wang
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2017-06-24 00:00:00
+What is the title of the research paper?,Spatial Transfer Learning with Simple MLP
+What is this research paper about?,"First step to investigate the potential of transfer learning applied to the
+field of spatial statistics"
+Who are the authors of this paper?,Hongjian Yang
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2024-05-05 00:00:00
+What is the title of the research paper?,"Proceedings of the 29th International Conference on Machine Learning
+  (ICML-12)"
+What is this research paper about?,"This is an index to the papers that appear in the Proceedings of the 29th
+International Conference on Machine Learning (ICML-12)."
+What is this research paper about?,"The conference was held
+in Edinburgh, Scotland, June 27th - July 3rd, 2012."
+Who are the authors of this paper?,"John Langford, Joelle Pineau"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2012-07-19 00:00:00
+What is the title of the research paper?,Distributed Multi-Task Learning with Shared Representation
+What is this research paper about?,"We study the problem of distributed multi-task learning with shared
+representation, where each machine aims to learn a separate, but related, task
+in an unknown shared low-dimensional subspaces, i.e."
+What is this research paper about?,"when the predictor matrix
+has low rank."
+What is this research paper about?,"We consider a setting where each task is handled by a different
+machine, with samples for the task available locally on the machine, and study
+communication-efficient methods for exploiting the shared structure."
+Who are the authors of this paper?,"Jialei Wang, Mladen Kolar, Nathan Srebro"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2016-03-07 00:00:00
+What is the title of the research paper?,Components of Machine Learning: Binding Bits and FLOPS
+What is this research paper about?,"Many machine learning problems and methods are combinations of three
+components: data, hypothesis space and loss function."
+What is this research paper about?,"Different machine
+learning methods are obtained as combinations of different choices for the
+representation of data, hypothesis space and loss function."
+What is this research paper about?,"After reviewing the
+mathematical structure of these three components, we discuss intrinsic
+trade-offs between statistical and computational properties of machine learning
+methods."
+Who are the authors of this paper?,Alexander Jung
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-10-25 00:00:00
+What is the title of the research paper?,Impact of Legal Requirements on Explainability in Machine Learning
+What is this research paper about?,"The requirements on explainability imposed by European laws and their
+implications for machine learning (ML) models are not always clear."
+What is this research paper about?,"In that
+perspective, our research analyzes explanation obligations imposed for private
+and public decision-making, and how they can be implemented by machine learning
+techniques."
+Who are the authors of this paper?,"Adrien Bibal, Michael Lognoul, Alexandre de Streel, Benoît Frénay"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-07-10 00:00:00
+What is the title of the research paper?,Machine Learning Potential Repository
+What is this research paper about?,"This paper introduces a machine learning potential repository that includes
+Pareto optimal machine learning potentials."
+What is this research paper about?,"It also shows the systematic
+development of accurate and fast machine learning potentials for a wide range
+of elemental systems."
+What is this research paper about?,"As a result, many Pareto optimal machine learning
+potentials are available in the repository from a website."
+What is this research paper about?,"Therefore, the
+repository will help many scientists to perform accurate and fast atomistic
+simulations."
+Who are the authors of this paper?,Atsuto Seko
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-07-27 00:00:00
+What is the title of the research paper?,Quantum memristors for neuromorphic quantum machine learning
+What is this research paper about?,"Quantum machine learning may permit to realize more efficient machine
+learning calculations with near-term quantum devices."
+What is this research paper about?,"Among the diverse quantum
+machine learning paradigms which are currently being considered, quantum
+memristors are promising as a way of combining, in the same quantum hardware, a
+unitary evolution with the nonlinearity provided by the measurement and
+feedforward."
+What is this research paper about?,"Thus, an efficient way of deploying neuromorphic quantum computing
+for quantum machine learning may be enabled."
+Who are the authors of this paper?,Lucas Lamata
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2024-12-25 00:00:00
+What is the title of the research paper?,metric-learn: Metric Learning Algorithms in Python
+What is this research paper about?,"metric-learn is an open source Python package implementing supervised and
+weakly-supervised distance metric learning algorithms."
+What is this research paper about?,"As part of
+scikit-learn-contrib, it provides a unified interface compatible with
+scikit-learn which allows to easily perform cross-validation, model selection,
+and pipelining with other machine learning estimators."
+What is this research paper about?,"metric-learn is
+thoroughly tested and available on PyPi under the MIT licence."
+Who are the authors of this paper?,"William de Vazelhes, CJ Carey, Yuan Tang, Nathalie Vauquier, Aurélien Bellet"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-08-13 00:00:00
+What is the title of the research paper?,Theoretical Models of Learning to Learn
+What is this research paper about?,A Machine can only learn if it is biased in some way.
+What is this research paper about?,"Typically the bias is
+supplied by hand, for example through the choice of an appropriate set of
+features."
+What is this research paper about?,"However, if the learning machine is embedded within an {\em
+environment} of related tasks, then it can {\em learn} its own bias by learning
+sufficiently many tasks from the environment."
+What is this research paper about?,"In this paper two models of bias
+learning (or equivalently, learning to learn) are introduced and the main
+theoretical results presented."
+What is this research paper about?,"The first model is a PAC-type model based on
+empirical process theory, while the second is a hierarchical Bayes model."
+Who are the authors of this paper?,Jonathan Baxter
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-02-27 00:00:00
+What is the title of the research paper?,On-the-Fly Learning in a Perpetual Learning Machine
+What is this research paper about?,"Despite the promise of brain-inspired machine learning, deep neural networks
+(DNN) have frustratingly failed to bridge the deceptively large gap between
+learning and memory."
+What is this research paper about?,"Here, we introduce a Perpetual Learning Machine; a new
+type of DNN that is capable of brain-like dynamic 'on the fly' learning because
+it exists in a self-supervised state of Perpetual Stochastic Gradient Descent."
+What is this research paper about?,"Thus, we provide the means to unify learning and memory within a machine
+learning framework."
+What is this research paper about?,"We also explore the elegant duality of abstraction and
+synthesis: the Yin and Yang of deep learning."
+Who are the authors of this paper?,Andrew J. R. Simpson
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2015-09-03 00:00:00
+What is the title of the research paper?,"An Aggregate and Iterative Disaggregate Algorithm with Proven Optimality
+  in Machine Learning"
+What is this research paper about?,"We propose a clustering-based iterative algorithm to solve certain
+optimization problems in machine learning, where we start the algorithm by
+aggregating the original data, solving the problem on aggregated data, and then
+in subsequent steps gradually disaggregate the aggregated data."
+What is this research paper about?,"We apply the
+algorithm to common machine learning problems such as the least absolute
+deviation regression problem, support vector machines, and semi-supervised
+support vector machines."
+What is this research paper about?,"We derive model-specific data aggregation and
+disaggregation procedures."
+What is this research paper about?,"We also show optimality, convergence, and the
+optimality gap of the approximated solution in each iteration."
+What is this research paper about?,"A computational
+study is provided."
+Who are the authors of this paper?,"Young Woong Park, Diego Klabjan"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2016-07-05 00:00:00
+What is the title of the research paper?,Human-in-the-loop Machine Learning: A Macro-Micro Perspective
+What is this research paper about?,"Though technical advance of artificial intelligence and machine learning has
+enabled many promising intelligent systems, many computing tasks are still not
+able to be fully accomplished by machine intelligence."
+What is this research paper about?,"Motivated by the
+complementary nature of human and machine intelligence, an emerging trend is to
+involve humans in the loop of machine learning and decision-making."
+What is this research paper about?,"In this
+paper, we provide a macro-micro review of human-in-the-loop machine learning."
+What is this research paper about?,"We first describe major machine learning challenges which can be addressed by
+human intervention in the loop."
+What is this research paper about?,"Then we examine closely the latest research and
+findings of introducing humans into each step of the lifecycle of machine
+learning."
+What is this research paper about?,"Finally, we analyze current research gaps and point out future
+research directions."
+Who are the authors of this paper?,"Jiangtao Wang, Bin Guo, Liming Chen"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2022-02-21 00:00:00
+What is the title of the research paper?,Can Machines Learn the True Probabilities?
+What is this research paper about?,"When there exists uncertainty, AI machines are designed to make decisions so
+as to reach the best expected outcomes."
+What is this research paper about?,"Expectations are based on true facts
+about the objective environment the machines interact with, and those facts can
+be encoded into AI models in the form of true objective probability functions."
+What is this research paper about?,"Accordingly, AI models involve probabilistic machine learning in which the
+probabilities should be objectively interpreted."
+What is this research paper about?,"We prove under some basic
+assumptions when machines can learn the true objective probabilities, if any,
+and when machines cannot learn them."
+Who are the authors of this paper?,Jinsook Kim
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2024-07-08 00:00:00
+What is the title of the research paper?,Scientific Machine Learning Benchmarks
+What is this research paper about?,"The breakthrough in Deep Learning neural networks has transformed the use of
+AI and machine learning technologies for the analysis of very large
+experimental datasets."
+What is this research paper about?,"These datasets are typically generated by large-scale
+experimental facilities at national laboratories."
+What is this research paper about?,"In the context of science,
+scientific machine learning focuses on training machines to identify patterns,
+trends, and anomalies to extract meaningful scientific insights from such
+datasets."
+What is this research paper about?,"With a new generation of experimental facilities, the rate of data
+generation and the scale of data volumes will increasingly require the use of
+more automated data analysis."
+What is this research paper about?,"At present, identifying the most appropriate
+machine learning algorithm for the analysis of any given scientific dataset is
+still a challenge for scientists."
+What is this research paper about?,"This is due to many different machine
+learning frameworks, computer architectures, and machine learning models."
+What is this research paper about?,"Historically, for modelling and simulation on HPC systems such problems have
+been addressed through benchmarking computer applications, algorithms, and
+architectures."
+What is this research paper about?,"Extending such a benchmarking approach and identifying metrics
+for the application of machine learning methods to scientific datasets is a new
+challenge for both scientists and computer scientists."
+What is this research paper about?,"In this paper, we
+describe our approach to the development of scientific machine learning
+benchmarks and review other approaches to benchmarking scientific machine
+learning."
+Who are the authors of this paper?,"Jeyan Thiyagalingam, Mallikarjun Shankar, Geoffrey Fox, Tony Hey"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-10-25 00:00:00
+What is the title of the research paper?,Some Insights into Lifelong Reinforcement Learning Systems
+What is this research paper about?,"A lifelong reinforcement learning system is a learning system that has the
+ability to learn through trail-and-error interaction with the environment over
+its lifetime."
+What is this research paper about?,"In this paper, I give some arguments to show that the traditional
+reinforcement learning paradigm fails to model this type of learning system."
+What is this research paper about?,"Some insights into lifelong reinforcement learning are provided, along with a
+simplistic prototype lifelong reinforcement learning system."
+Who are the authors of this paper?,Changjian Li
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-01-27 00:00:00
+What is the title of the research paper?,Towards A Rigorous Science of Interpretable Machine Learning
+What is this research paper about?,"As machine learning systems become ubiquitous, there has been a surge of
+interest in interpretable machine learning: systems that provide explanation
+for their outputs."
+What is this research paper about?,"These explanations are often used to qualitatively assess
+other criteria such as safety or non-discrimination."
+What is this research paper about?,"However, despite the
+interest in interpretability, there is very little consensus on what
+interpretable machine learning is and how it should be measured."
+What is this research paper about?,"In this
+position paper, we first define interpretability and describe when
+interpretability is needed (and when it is not)."
+What is this research paper about?,"Next, we suggest a taxonomy
+for rigorous evaluation and expose open questions towards a more rigorous
+science of interpretable machine learning."
+Who are the authors of this paper?,"Finale Doshi-Velez, Been Kim"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2017-02-28 00:00:00
+What is the title of the research paper?,Infrastructure for Usable Machine Learning: The Stanford DAWN Project
+What is this research paper about?,"Despite incredible recent advances in machine learning, building machine
+learning applications remains prohibitively time-consuming and expensive for
+all but the best-trained, best-funded engineering organizations."
+What is this research paper about?,"This expense
+comes not from a need for new and improved statistical models but instead from
+a lack of systems and tools for supporting end-to-end machine learning
+application development, from data preparation and labeling to
+productionization and monitoring."
+What is this research paper about?,"In this document, we outline opportunities
+for infrastructure supporting usable, end-to-end machine learning applications
+in the context of the nascent DAWN (Data Analytics for What's Next) project at
+Stanford."
+Who are the authors of this paper?,"Peter Bailis, Kunle Olukotun, Christopher Re, Matei Zaharia"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2017-05-22 00:00:00
+What is the title of the research paper?,Techniques for Interpretable Machine Learning
+What is this research paper about?,"Interpretable machine learning tackles the important problem that humans
+cannot understand the behaviors of complex machine learning models and how
+these models arrive at a particular decision."
+What is this research paper about?,"Although many approaches have
+been proposed, a comprehensive understanding of the achievements and challenges
+is still lacking."
+What is this research paper about?,"We provide a survey covering existing techniques to increase
+the interpretability of machine learning models."
+What is this research paper about?,"We also discuss crucial issues
+that the community should consider in future work such as designing
+user-friendly explanations and developing comprehensive evaluation metrics to
+further push forward the area of interpretable machine learning."
+Who are the authors of this paper?,"Mengnan Du, Ninghao Liu, Xia Hu"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2018-07-31 00:00:00
+What is the title of the research paper?,Solving machine learning optimization problems using quantum computers
+What is this research paper about?,"Classical optimization algorithms in machine learning often take a long time
+to compute when applied to a multi-dimensional problem and require a huge
+amount of CPU and GPU resource."
+What is this research paper about?,"Quantum parallelism has a potential to speed up
+machine learning algorithms."
+What is this research paper about?,"We describe a generic mathematical model to
+leverage quantum parallelism to speed-up machine learning algorithms."
+What is this research paper about?,"We also
+apply quantum machine learning and quantum parallelism applied to a
+$3$-dimensional image that vary with time."
+Who are the authors of this paper?,"Venkat R. Dasari, Mee Seong Im, Lubjana Beshaj"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-11-17 00:00:00
+What is the title of the research paper?,Lale: Consistent Automated Machine Learning
+What is this research paper about?,"Automated machine learning makes it easier for data scientists to develop
+pipelines by searching over possible choices for hyperparameters, algorithms,
+and even pipeline topologies."
+What is this research paper about?,"Unfortunately, the syntax for automated machine
+learning tools is inconsistent with manual machine learning, with each other,
+and with error checks."
+What is this research paper about?,"Furthermore, few tools support advanced features such as
+topology search or higher-order operators."
+What is this research paper about?,"This paper introduces Lale, a
+library of high-level Python interfaces that simplifies and unifies automated
+machine learning in a consistent way."
+Who are the authors of this paper?,"Guillaume Baudart, Martin Hirzel, Kiran Kate, Parikshit Ram, Avraham Shinnar"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-07-04 00:00:00
+What is the title of the research paper?,Differential Replication in Machine Learning
+What is this research paper about?,"When deployed in the wild, machine learning models are usually confronted
+with data and requirements that constantly vary, either because of changes in
+the generating distribution or because external constraints change the
+environment where the model operates."
+What is this research paper about?,"To survive in such an ecosystem, machine
+learning models need to adapt to new conditions by evolving over time."
+What is this research paper about?,"The idea
+of model adaptability has been studied from different perspectives."
+What is this research paper about?,"In this
+paper, we propose a solution based on reusing the knowledge acquired by the
+already deployed machine learning models and leveraging it to train future
+generations."
+What is this research paper about?,"This is the idea behind differential replication of machine
+learning models."
+Who are the authors of this paper?,"Irene Unceta, Jordi Nin, Oriol Pujol"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-07-15 00:00:00
+What is the title of the research paper?,mlr3proba: An R Package for Machine Learning in Survival Analysis
+What is this research paper about?,"As machine learning has become increasingly popular over the last few
+decades, so too has the number of machine learning interfaces for implementing
+these models."
+What is this research paper about?,"Whilst many R libraries exist for machine learning, very few
+offer extended support for survival analysis."
+What is this research paper about?,"This is problematic considering
+its importance in fields like medicine, bioinformatics, economics, engineering,
+and more."
+What is this research paper about?,"mlr3proba provides a comprehensive machine learning interface for
+survival analysis and connects with mlr3's general model tuning and
+benchmarking facilities to provide a systematic infrastructure for survival
+modeling and evaluation."
+Who are the authors of this paper?,"Raphael Sonabend, Franz J. Király, Andreas Bender, Bernd Bischl, Michel Lang"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-08-18 00:00:00
+What is the title of the research paper?,Bayesian Optimization for Machine Learning : A Practical Guidebook
+What is this research paper about?,"The engineering of machine learning systems is still a nascent field; relying
+on a seemingly daunting collection of quickly evolving tools and best
+practices."
+What is this research paper about?,"It is our hope that this guidebook will serve as a useful resource
+for machine learning practitioners looking to take advantage of Bayesian
+optimization techniques."
+What is this research paper about?,"We outline four example machine learning problems that
+can be solved using open source machine learning libraries, and highlight the
+benefits of using Bayesian optimization in the context of these common machine
+learning applications."
+Who are the authors of this paper?,"Ian Dewancker, Michael McCourt, Scott Clark"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2016-12-14 00:00:00
+What is the title of the research paper?,"Teaching Uncertainty Quantification in Machine Learning through Use
+  Cases"
+What is this research paper about?,"Uncertainty in machine learning is not generally taught as general knowledge
+in Machine Learning course curricula."
+What is this research paper about?,"In this paper we propose a short
+curriculum for a course about uncertainty in machine learning, and complement
+the course with a selection of use cases, aimed to trigger discussion and let
+students play with the concepts of uncertainty in a programming setting."
+What is this research paper about?,"Our
+use cases cover the concept of output uncertainty, Bayesian neural networks and
+weight distributions, sources of uncertainty, and out of distribution
+detection."
+What is this research paper about?,"We expect that this curriculum and set of use cases motivates the
+community to adopt these important concepts into courses for safety in AI."
+Who are the authors of this paper?,Matias Valdenegro-Toro
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-08-19 00:00:00
+What is the title of the research paper?,"Introduction to Machine Learning for Physicians: A Survival Guide for
+  Data Deluge"
+What is this research paper about?,"Many modern research fields increasingly rely on collecting and analysing
+massive, often unstructured, and unwieldy datasets."
+What is this research paper about?,"Consequently, there is
+growing interest in machine learning and artificial intelligence applications
+that can harness this `data deluge'."
+What is this research paper about?,"This broad nontechnical overview provides
+a gentle introduction to machine learning with a specific focus on medical and
+biological applications."
+What is this research paper about?,"We explain the common types of machine learning
+algorithms and typical tasks that can be solved, illustrating the basics with
+concrete examples from healthcare."
+What is this research paper about?,"Lastly, we provide an outlook on open
+challenges, limitations, and potential impacts of machine-learning-powered
+medicine."
+Who are the authors of this paper?,"Ričards Marcinkevičs, Ece Ozkan, Julia E. Vogt"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2022-12-23 00:00:00
+What is the title of the research paper?,"Machine learning-assisted close-set X-ray diffraction phase
+  identification of transition metals"
+What is this research paper about?,"Machine learning has been applied to the problem of X-ray diffraction phase
+prediction with promising results."
+What is this research paper about?,"In this paper, we describe a method for
+using machine learning to predict crystal structure phases from X-ray
+diffraction data of transition metals and their oxides."
+What is this research paper about?,"We evaluate the
+performance of our method and compare the variety of its settings."
+What is this research paper about?,"Our results
+demonstrate that the proposed machine learning framework achieves competitive
+performance."
+What is this research paper about?,"This demonstrates the potential for machine learning to
+significantly impact the field of X-ray diffraction and crystal structure
+determination."
+What is this research paper about?,"Open-source implementation:
+https://github.com/maxnygma/NeuralXRD."
+Who are the authors of this paper?,"Maksim Zhdanov, Andrey Zhdanov"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2023-04-28 00:00:00
+What is the title of the research paper?,Insights From Insurance for Fair Machine Learning
+What is this research paper about?,"We argue that insurance can act as an analogon for the social situatedness of
+machine learning systems, hence allowing machine learning scholars to take
+insights from the rich and interdisciplinary insurance literature."
+What is this research paper about?,"Tracing the
+interaction of uncertainty, fairness and responsibility in insurance provides a
+fresh perspective on fairness in machine learning."
+What is this research paper about?,"We link insurance fairness
+conceptions to their machine learning relatives, and use this bridge to
+problematize fairness as calibration."
+What is this research paper about?,"In this process, we bring to the
+forefront two themes that have been largely overlooked in the machine learning
+literature: responsibility and aggregate-individual tensions."
+Who are the authors of this paper?,"Christian Fröhlich, Robert C. Williamson"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2023-06-26 00:00:00
+What is the title of the research paper?,Quantum Dynamics of Machine Learning
+What is this research paper about?,"The quantum dynamic equation (QDE) of machine learning is obtained based on
+Schr\""odinger equation and potential energy equivalence relationship."
+What is this research paper about?,"Through
+Wick rotation, the relationship between quantum dynamics and thermodynamics is
+also established in this paper."
+What is this research paper about?,"This equation reformulates the iterative
+process of machine learning into a time-dependent partial differential equation
+with a clear mathematical structure, offering a theoretical framework for
+investigating machine learning iterations through quantum and mathematical
+theories."
+What is this research paper about?,"Within this framework, the fundamental iterative process, the
+diffusion model, and the Softmax and Sigmoid functions are examined, validating
+the proposed quantum dynamics equations."
+What is this research paper about?,"This approach not only presents a
+rigorous theoretical foundation for machine learning but also holds promise for
+supporting the implementation of machine learning algorithms on quantum
+computers."
+Who are the authors of this paper?,"Peng Wang, Maimaitiniyazi Maimaitiabudula"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2024-07-07 00:00:00
+What is the title of the research paper?,"On the Conditions for Domain Stability for Machine Learning: a
+  Mathematical Approach"
+What is this research paper about?,"This work proposes a mathematical approach that (re)defines a property of
+Machine Learning models named stability and determines sufficient conditions to
+validate it."
+What is this research paper about?,"Machine Learning models are represented as functions, and the
+characteristics in scope depend upon the domain of the function, what allows us
+to adopt topological and metric spaces theory as a basis."
+What is this research paper about?,"Finally, this work
+provides some equivalences useful to prove and test stability in Machine
+Learning models."
+What is this research paper about?,"The results suggest that whenever stability is aligned with
+the notion of function smoothness, then the stability of Machine Learning
+models primarily depends upon certain topological, measurable properties of the
+classification sets within the ML model domain."
+Who are the authors of this paper?,Gabriel Pedroza
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2024-11-30 00:00:00
+What is the title of the research paper?,Distributed Multitask Learning
+What is this research paper about?,"We consider the problem of distributed multi-task learning, where each
+machine learns a separate, but related, task."
+What is this research paper about?,"Specifically, each machine learns
+a linear predictor in high-dimensional space,where all tasks share the same
+small support."
+What is this research paper about?,"We present a communication-efficient estimator based on the
+debiased lasso and show that it is comparable with the optimal centralized
+method."
+Who are the authors of this paper?,"Jialei Wang, Mladen Kolar, Nathan Srebro"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2015-10-02 00:00:00
+What is the title of the research paper?,Distributed Stochastic Multi-Task Learning with Graph Regularization
+What is this research paper about?,"We propose methods for distributed graph-based multi-task learning that are
+based on weighted averaging of messages from other machines."
+What is this research paper about?,"Uniform averaging
+or diminishing stepsize in these methods would yield consensus (single task)
+learning."
+What is this research paper about?,"We show how simply skewing the averaging weights or controlling the
+stepsize allows learning different, but related, tasks on the different
+machines."
+Who are the authors of this paper?,"Weiran Wang, Jialei Wang, Mladen Kolar, Nathan Srebro"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2018-02-11 00:00:00
+What is the title of the research paper?,Category Theory in Machine Learning
+What is this research paper about?,"Over the past two decades machine learning has permeated almost every realm
+of technology."
+What is this research paper about?,"At the same time, many researchers have begun using category
+theory as a unifying language, facilitating communication between different
+scientific disciplines."
+What is this research paper about?,"It is therefore unsurprising that there is a burgeoning
+interest in applying category theory to machine learning."
+What is this research paper about?,"We aim to document
+the motivations, goals and common themes across these applications."
+What is this research paper about?,"We touch on
+gradient-based learning, probability, and equivariant learning."
+Who are the authors of this paper?,"Dan Shiebler, Bruno Gavranović, Paul Wilson"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-06-13 00:00:00
+What is the title of the research paper?,Energy-Harvesting Distributed Machine Learning
+What is this research paper about?,"This paper provides a first study of utilizing energy harvesting for
+sustainable machine learning in distributed networks."
+What is this research paper about?,"We consider a distributed
+learning setup in which a machine learning model is trained over a large number
+of devices that can harvest energy from the ambient environment, and develop a
+practical learning framework with theoretical convergence guarantees."
+What is this research paper about?,"We
+demonstrate through numerical experiments that the proposed framework can
+significantly outperform energy-agnostic benchmarks."
+What is this research paper about?,"Our framework is scalable,
+requires only local estimation of the energy statistics, and can be applied to
+a wide range of distributed training settings, including machine learning in
+wireless networks, edge computing, and mobile internet of things."
+Who are the authors of this paper?,"Basak Guler, Aylin Yener"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-02-10 00:00:00
+What is the title of the research paper?,Representation Learning for Electronic Health Records
+What is this research paper about?,"Information in electronic health records (EHR), such as clinical narratives,
+examination reports, lab measurements, demographics, and other patient
+encounter entries, can be transformed into appropriate data representations
+that can be used for downstream clinical machine learning tasks using
+representation learning."
+What is this research paper about?,"Learning better representations is critical to improve
+the performance of downstream tasks."
+What is this research paper about?,"Due to the advances in machine learning,
+we now can learn better and meaningful representations from EHR through
+disentangling the underlying factors inside data and distilling large amounts
+of information and knowledge from heterogeneous EHR sources."
+What is this research paper about?,"In this chapter,
+we first introduce the background of learning representations and reasons why
+we need good EHR representations in machine learning for medicine and
+healthcare in Section 1."
+What is this research paper about?,"Next, we explain the commonly-used machine learning
+and evaluation methods for representation learning using a deep learning
+approach in Section 2."
+What is this research paper about?,"Following that, we review recent related studies of
+learning patient state representation from EHR for clinical machine learning
+tasks in Section 3."
+What is this research paper about?,"Finally, in Section 4 we discuss more techniques, studies,
+and challenges for learning natural language representations when free texts,
+such as clinical notes, examination reports, or biomedical literature are used."
+What is this research paper about?,"We also discuss challenges and opportunities in these rapidly growing research
+fields."
+Who are the authors of this paper?,"Wei-Hung Weng, Peter Szolovits"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-09-19 00:00:00
+What is the title of the research paper?,Meta-Learning: A Survey
+What is this research paper about?,"Meta-learning, or learning to learn, is the science of systematically
+observing how different machine learning approaches perform on a wide range of
+learning tasks, and then learning from this experience, or meta-data, to learn
+new tasks much faster than otherwise possible."
+What is this research paper about?,"Not only does this dramatically
+speed up and improve the design of machine learning pipelines or neural
+architectures, it also allows us to replace hand-engineered algorithms with
+novel approaches learned in a data-driven way."
+What is this research paper about?,"In this chapter, we provide an
+overview of the state of the art in this fascinating and continuously evolving
+field."
+Who are the authors of this paper?,Joaquin Vanschoren
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2018-10-08 00:00:00
+What is the title of the research paper?,Introduction to intelligent computing unit 1
+What is this research paper about?,"This brief note highlights some basic concepts required toward understanding
+the evolution of machine learning and deep learning models."
+What is this research paper about?,"The note starts
+with an overview of artificial intelligence and its relationship to biological
+neuron that ultimately led to the evolution of todays intelligent models."
+Who are the authors of this paper?,Isa Inuwa-Dutse
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2017-11-15 00:00:00
+What is the title of the research paper?,"In-Machine-Learning Database: Reimagining Deep Learning with Old-School
+  SQL"
+What is this research paper about?,"In-database machine learning has been very popular, almost being a cliche."
+What is this research paper about?,"However, can we do it the other way around?"
+What is this research paper about?,"In this work, we say ""yes"" by
+applying plain old SQL to deep learning, in a sense implementing deep learning
+algorithms with SQL."
+What is this research paper about?,"Most deep learning frameworks, as well as generic machine
+learning ones, share a de facto standard of multidimensional array operations,
+underneath fancier infrastructure such as automatic differentiation."
+What is this research paper about?,"As SQL
+tables can be regarded as generalisations of (multi-dimensional) arrays, we
+have found a way to express common deep learning operations in SQL, encouraging
+a different way of thinking and thus potentially novel models."
+What is this research paper about?,"In particular,
+one of the latest trend in deep learning was the introduction of sparsity in
+the name of graph convolutional networks, whereas we take sparsity almost for
+granted in the database world."
+What is this research paper about?,"As both databases and machine learning involve
+transformation of datasets, we hope this work can inspire further works
+utilizing the large body of existing wisdom, algorithms and technologies in the
+database field to advance the state of the art in machine learning, rather than
+merely integerating machine learning into databases."
+Who are the authors of this paper?,Len Du
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-04-11 00:00:00
+What is the title of the research paper?,Machine Learning Interpretability: A Science rather than a tool
+What is this research paper about?,"The term ""interpretability"" is oftenly used by machine learning researchers
+each with their own intuitive understanding of it."
+What is this research paper about?,"There is no universal well
+agreed upon definition of interpretability in machine learning."
+What is this research paper about?,"As any type of
+science discipline is mainly driven by the set of formulated questions rather
+than by different tools in that discipline, e.g."
+What is this research paper about?,"astrophysics is the discipline
+that learns the composition of stars, not as the discipline that use the
+spectroscopes."
+What is this research paper about?,"Similarly, we propose that machine learning interpretability
+should be a discipline that answers specific questions related to
+interpretability."
+What is this research paper about?,"These questions can be of statistical, causal and
+counterfactual nature."
+What is this research paper about?,"Therefore, there is a need to look into the
+interpretability problem of machine learning in the context of questions that
+need to be addressed rather than different tools."
+What is this research paper about?,"We discuss about a
+hypothetical interpretability framework driven by a question based scientific
+approach rather than some specific machine learning model."
+What is this research paper about?,"Using a question
+based notion of interpretability, we can step towards understanding the science
+of machine learning rather than its engineering."
+What is this research paper about?,"This notion will also help us
+understanding any specific problem more in depth rather than relying solely on
+machine learning methods."
+Who are the authors of this paper?,"Abdul Karim, Avinash Mishra, MA Hakim Newton, Abdul Sattar"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2018-07-18 00:00:00
+What is the title of the research paper?,Automated Machine Learning on Graphs: A Survey
+What is this research paper about?,"Machine learning on graphs has been extensively studied in both academic and
+industry."
+What is this research paper about?,"However, as the literature on graph learning booms with a vast number
+of emerging methods and techniques, it becomes increasingly difficult to
+manually design the optimal machine learning algorithm for different
+graph-related tasks."
+What is this research paper about?,"To solve this critical challenge, automated machine
+learning (AutoML) on graphs which combines the strength of graph machine
+learning and AutoML together, is gaining attention from the research community."
+What is this research paper about?,"Therefore, we comprehensively survey AutoML on graphs in this paper, primarily
+focusing on hyper-parameter optimization (HPO) and neural architecture search
+(NAS) for graph machine learning."
+What is this research paper about?,"We further overview libraries related to
+automated graph machine learning and in-depth discuss AutoGL, the first
+dedicated open-source library for AutoML on graphs."
+What is this research paper about?,"In the end, we share our
+insights on future research directions for automated graph machine learning."
+What is this research paper about?,"This paper is the first systematic and comprehensive review of automated
+machine learning on graphs to the best of our knowledge."
+Who are the authors of this paper?,"Ziwei Zhang, Xin Wang, Wenwu Zhu"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-03-01 00:00:00
+What is the title of the research paper?,Can Machine Learning be Moral?
+What is this research paper about?,"The ethics of Machine Learning has become an unavoidable topic in the AI
+Community."
+What is this research paper about?,"The deployment of machine learning systems in multiple social
+contexts has resulted in a closer ethical scrutiny of the design, development,
+and application of these systems."
+What is this research paper about?,"The AI/ML community has come to terms with
+the imperative to think about the ethical implications of machine learning, not
+only as a product but also as a practice (Birhane, 2021; Shen et al."
+What is this research paper about?,2021).
+What is this research paper about?,"The
+critical question that is troubling many debates is what can constitute an
+ethically accountable machine learning system."
+What is this research paper about?,"In this paper we explore
+possibilities for ethical evaluation of machine learning methodologies."
+What is this research paper about?,"We
+scrutinize techniques, methods and technical practices in machine learning from
+a relational ethics perspective, taking into consideration how machine learning
+systems are part of the world and how they relate to different forms of agency."
+What is this research paper about?,"Taking a page from Phil Agre (1997) we use the notion of a critical technical
+practice as a means of analysis of machine learning approaches."
+What is this research paper about?,"Our radical
+proposal is that supervised learning appears to be the only machine learning
+method that is ethically defensible."
+Who are the authors of this paper?,"Miguel Sicart, Irina Shklovski, Mirabelle Jones"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-12-13 00:00:00
+What is the title of the research paper?,Compressive Classification (Machine Learning without learning)
+What is this research paper about?,"Compressive learning is a framework where (so far unsupervised) learning
+tasks use not the entire dataset but a compressed summary (sketch) of it."
+What is this research paper about?,"We
+propose a compressive learning classification method, and a novel sketch
+function for images."
+Who are the authors of this paper?,"Vincent Schellekens, Laurent Jacques"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2018-12-04 00:00:00
+What is the title of the research paper?,A Survey on Resilient Machine Learning
+What is this research paper about?,"Machine learning based system are increasingly being used for sensitive tasks
+such as security surveillance, guiding autonomous vehicle, taking investment
+decisions, detecting and blocking network intrusion and malware etc."
+What is this research paper about?,"However,
+recent research has shown that machine learning models are venerable to attacks
+by adversaries at all phases of machine learning (eg, training data collection,
+training, operation)."
+What is this research paper about?,"All model classes of machine learning systems can be
+misled by providing carefully crafted inputs making them wrongly classify
+inputs."
+What is this research paper about?,"Maliciously created input samples can affect the learning process of a
+ML system by either slowing down the learning process, or affecting the
+performance of the learned mode, or causing the system make error(s) only in
+attacker's planned scenario."
+What is this research paper about?,"Because of these developments, understanding
+security of machine learning algorithms and systems is emerging as an important
+research area among computer security and machine learning researchers and
+practitioners."
+What is this research paper about?,We present a survey of this emerging area in machine learning.
+Who are the authors of this paper?,"Atul Kumar, Sameep Mehta"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2017-07-11 00:00:00
+What is the title of the research paper?,An Introduction to MM Algorithms for Machine Learning and Statistical
+What is this research paper about?,"MM (majorization--minimization) algorithms are an increasingly popular tool
+for solving optimization problems in machine learning and statistical
+estimation."
+What is this research paper about?,"This article introduces the MM algorithm framework in general and
+via three popular example applications: Gaussian mixture regressions,
+multinomial logistic regressions, and support vector machines."
+What is this research paper about?,"Specific
+algorithms for the three examples are derived and numerical demonstrations are
+presented."
+What is this research paper about?,"Theoretical and practical aspects of MM algorithm design are
+discussed."
+Who are the authors of this paper?,Hien D. Nguyen
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2016-11-12 00:00:00
+What is the title of the research paper?,"Some Requests for Machine Learning Research from the East African Tech
+  Scene"
+What is this research paper about?,"Based on 46 in-depth interviews with scientists, engineers, and CEOs, this
+document presents a list of concrete machine research problems, progress on
+which would directly benefit tech ventures in East Africa."
+Who are the authors of this paper?,Milan Cvitkovic
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2018-10-25 00:00:00
+What is the title of the research paper?,Machine learning and deep learning
+What is this research paper about?,"Today, intelligent systems that offer artificial intelligence capabilities
+often rely on machine learning."
+What is this research paper about?,"Machine learning describes the capacity of
+systems to learn from problem-specific training data to automate the process of
+analytical model building and solve associated tasks."
+What is this research paper about?,"Deep learning is a
+machine learning concept based on artificial neural networks."
+What is this research paper about?,"For many
+applications, deep learning models outperform shallow machine learning models
+and traditional data analysis approaches."
+What is this research paper about?,"In this article, we summarize the
+fundamentals of machine learning and deep learning to generate a broader
+understanding of the methodical underpinning of current intelligent systems."
+What is this research paper about?,"In
+particular, we provide a conceptual distinction between relevant terms and
+concepts, explain the process of automated analytical model building through
+machine learning and deep learning, and discuss the challenges that arise when
+implementing such intelligent systems in the field of electronic markets and
+networked business."
+What is this research paper about?,"These naturally go beyond technological aspects and
+highlight issues in human-machine interaction and artificial intelligence
+servitization."
+Who are the authors of this paper?,"Christian Janiesch, Patrick Zschech, Kai Heinrich"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-04-12 00:00:00
+What is the title of the research paper?,Application of Machine Learning Techniques in Aquaculture
+What is this research paper about?,"In this paper we present applications of different machine learning
+algorithms in aquaculture."
+What is this research paper about?,"Machine learning algorithms learn models from
+historical data."
+What is this research paper about?,"In aquaculture historical data are obtained from farm
+practices, yields, and environmental data sources."
+What is this research paper about?,"Associations between these
+different variables can be obtained by applying machine learning algorithms to
+historical data."
+What is this research paper about?,"In this paper we present applications of different machine
+learning algorithms in aquaculture applications."
+Who are the authors of this paper?,"Akhlaqur Rahman, Sumaira Tasnim"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2014-05-03 00:00:00
+What is the title of the research paper?,Machine Learning as Ecology
+What is this research paper about?,Machine learning methods have had spectacular success on numerous problems.
+What is this research paper about?,"Here we show that a prominent class of learning algorithms - including Support
+Vector Machines (SVMs) -- have a natural interpretation in terms of ecological
+dynamics."
+What is this research paper about?,"We use these ideas to design new online SVM algorithms that exploit
+ecological invasions, and benchmark performance using the MNIST dataset."
+What is this research paper about?,"Our
+work provides a new ecological lens through which we can view statistical
+learning and opens the possibility of designing ecosystems for machine
+learning."
+What is this research paper about?,Supplemental code is found at https://github.com/owenhowell20/EcoSVM.
+Who are the authors of this paper?,"Owen Howell, Cui Wenping, Robert Marsland III, Pankaj Mehta"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-08-02 00:00:00
+What is the title of the research paper?,"Using Deep Learning and Machine Learning to Detect Epileptic Seizure
+  with Electroencephalography (EEG) Data"
+What is this research paper about?,"The prediction of epileptic seizure has always been extremely challenging in
+medical domain."
+What is this research paper about?,"However, as the development of computer technology, the
+application of machine learning introduced new ideas for seizure forecasting."
+What is this research paper about?,"Applying machine learning model onto the predication of epileptic seizure could
+help us obtain a better result and there have been plenty of scientists who
+have been doing such works so that there are sufficient medical data provided
+for researchers to do training of machine learning models."
+Who are the authors of this paper?,"Haotian Liu, Lin Xi, Ying Zhao, Zhixiang Li"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-10-06 00:00:00
+What is the title of the research paper?,SELM: Software Engineering of Machine Learning Models
+What is this research paper about?,One of the pillars of any machine learning model is its concepts.
+What is this research paper about?,"Using
+software engineering, we can engineer these concepts and then develop and
+expand them."
+What is this research paper about?,"In this article, we present a SELM framework for Software
+Engineering of machine Learning Models."
+What is this research paper about?,"We then evaluate this framework through
+a case study."
+What is this research paper about?,"Using the SELM framework, we can improve a machine learning
+process efficiency and provide more accuracy in learning with less processing
+hardware resources and a smaller training dataset."
+What is this research paper about?,"This issue highlights the
+importance of an interdisciplinary approach to machine learning."
+What is this research paper about?,"Therefore, in
+this article, we have provided interdisciplinary teams' proposals for machine
+learning."
+Who are the authors of this paper?,"Nafiseh Jafari, Mohammad Reza Besharati, Mohammad Izadi, Maryam Hourali"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-03-20 00:00:00
+What is the title of the research paper?,"TF.Learn: TensorFlow's High-level Module for Distributed Machine
+  Learning"
+What is this research paper about?,"TF.Learn is a high-level Python module for distributed machine learning
+inside TensorFlow."
+What is this research paper about?,"It provides an easy-to-use Scikit-learn style interface to
+simplify the process of creating, configuring, training, evaluating, and
+experimenting a machine learning model."
+What is this research paper about?,"TF.Learn integrates a wide range of
+state-of-art machine learning algorithms built on top of TensorFlow's low level
+APIs for small to large-scale supervised and unsupervised problems."
+What is this research paper about?,"This module
+focuses on bringing machine learning to non-specialists using a general-purpose
+high-level language as well as researchers who want to implement, benchmark,
+and compare their new methods in a structured environment."
+What is this research paper about?,"Emphasis is put on
+ease of use, performance, documentation, and API consistency."
+Who are the authors of this paper?,Yuan Tang
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2016-12-13 00:00:00
+What is the title of the research paper?,Machine Learning in Network Security Using KNIME Analytics
+What is this research paper about?,Machine learning has more and more effect on our every day's life.
+What is this research paper about?,"This field
+keeps growing and expanding into new areas."
+What is this research paper about?,"Machine learning is based on the
+implementation of artificial intelligence that gives systems the capability to
+automatically learn and enhance from experiments without being explicitly
+programmed."
+What is this research paper about?,"Machine Learning algorithms apply mathematical equations to analyze
+datasets and predict values based on the dataset."
+What is this research paper about?,"In the field of
+cybersecurity, machine learning algorithms can be utilized to train and analyze
+the Intrusion Detection Systems (IDSs) on security-related datasets."
+What is this research paper about?,"In this
+paper, we tested different machine learning algorithms to analyze NSL-KDD
+dataset using KNIME analytics."
+Who are the authors of this paper?,Munther Abualkibash
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-11-18 00:00:00
+What is the title of the research paper?,Challenges and Opportunities in Quantum Machine Learning
+What is this research paper about?,"At the intersection of machine learning and quantum computing, Quantum
+Machine Learning (QML) has the potential of accelerating data analysis,
+especially for quantum data, with applications for quantum materials,
+biochemistry, and high-energy physics."
+What is this research paper about?,"Nevertheless, challenges remain
+regarding the trainability of QML models."
+What is this research paper about?,"Here we review current methods and
+applications for QML."
+What is this research paper about?,"We highlight differences between quantum and classical
+machine learning, with a focus on quantum neural networks and quantum deep
+learning."
+What is this research paper about?,"Finally, we discuss opportunities for quantum advantage with QML."
+Who are the authors of this paper?,"M. Cerezo, Guillaume Verdon, Hsin-Yuan Huang, Lukasz Cincio, Patrick J. Coles"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2023-03-16 00:00:00
+What is the title of the research paper?,A Theory of Machine Learning
+What is this research paper about?,"We critically review three major theories of machine learning and provide a
+new theory according to which machines learn a function when the machines
+successfully compute it."
+What is this research paper about?,"We show that this theory challenges common assumptions
+in the statistical and the computational learning theories, for it implies that
+learning true probabilities is equivalent neither to obtaining a correct
+calculation of the true probabilities nor to obtaining an almost-sure
+convergence to them."
+What is this research paper about?,"We also briefly discuss some case studies from natural
+language processing and macroeconomics from the perspective of the new theory."
+Who are the authors of this paper?,"Jinsook Kim, Jinho Kang"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2024-07-07 00:00:00
+What is the title of the research paper?,Learning Moore Machines from Input-Output Traces
+What is this research paper about?,"The problem of learning automata from example traces (but no equivalence or
+membership queries) is fundamental in automata learning theory and practice."
+What is this research paper about?,"In
+this paper we study this problem for finite state machines with inputs and
+outputs, and in particular for Moore machines."
+What is this research paper about?,"We develop three algorithms for
+solving this problem: (1) the PTAP algorithm, which transforms a set of
+input-output traces into an incomplete Moore machine and then completes the
+machine with self-loops; (2) the PRPNI algorithm, which uses the well-known
+RPNI algorithm for automata learning to learn a product of automata encoding a
+Moore machine; and (3) the MooreMI algorithm, which directly learns a Moore
+machine using PTAP extended with state merging."
+What is this research paper about?,"We prove that MooreMI has the
+fundamental identification in the limit property."
+What is this research paper about?,"We also compare the
+algorithms experimentally in terms of the size of the learned machine and
+several notions of accuracy, introduced in this paper."
+What is this research paper about?,"Finally, we compare with
+OSTIA, an algorithm that learns a more general class of transducers, and find
+that OSTIA generally does not learn a Moore machine, even when fed with a
+characteristic sample."
+Who are the authors of this paper?,"Georgios Giantamidis, Stavros Tripakis"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2016-05-25 00:00:00
+What is the title of the research paper?,"How Developers Iterate on Machine Learning Workflows -- A Survey of the
+  Applied Machine Learning Literature"
+What is this research paper about?,"Machine learning workflow development is anecdotally regarded to be an
+iterative process of trial-and-error with humans-in-the-loop."
+What is this research paper about?,"However, we are
+not aware of quantitative evidence corroborating this popular belief."
+What is this research paper about?,"A
+quantitative characterization of iteration can serve as a benchmark for machine
+learning workflow development in practice, and can aid the development of
+human-in-the-loop machine learning systems."
+What is this research paper about?,"To this end, we conduct a
+small-scale survey of the applied machine learning literature from five
+distinct application domains."
+What is this research paper about?,"We collect and distill statistics on the role of
+iteration within machine learning workflow development, and report preliminary
+trends and insights from our investigation, as a starting point towards this
+benchmark."
+What is this research paper about?,"Based on our findings, we finally describe desiderata for effective
+and versatile human-in-the-loop machine learning systems that can cater to
+users in diverse domains."
+Who are the authors of this paper?,"Doris Xin, Litian Ma, Shuchen Song, Aditya Parameswaran"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2018-03-27 00:00:00
+What is the title of the research paper?,Practical Solutions for Machine Learning Safety in Autonomous Vehicles
+What is this research paper about?,"Autonomous vehicles rely on machine learning to solve challenging tasks in
+perception and motion planning."
+What is this research paper about?,"However, automotive software safety standards
+have not fully evolved to address the challenges of machine learning safety
+such as interpretability, verification, and performance limitations."
+What is this research paper about?,"In this
+paper, we review and organize practical machine learning safety techniques that
+can complement engineering safety for machine learning based software in
+autonomous vehicles."
+What is this research paper about?,"Our organization maps safety strategies to
+state-of-the-art machine learning techniques in order to enhance dependability
+and safety of machine learning algorithms."
+What is this research paper about?,"We also discuss security limitations
+and user experience aspects of machine learning components in autonomous
+vehicles."
+Who are the authors of this paper?,"Sina Mohseni, Mandar Pitale, Vasu Singh, Zhangyang Wang"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-12-20 00:00:00
+What is the title of the research paper?,"Julia Language in Machine Learning: Algorithms, Applications, and Open
+  Issues"
+What is this research paper about?,"Machine learning is driving development across many fields in science and
+engineering."
+What is this research paper about?,"A simple and efficient programming language could accelerate
+applications of machine learning in various fields."
+What is this research paper about?,"Currently, the programming
+languages most commonly used to develop machine learning algorithms include
+Python, MATLAB, and C/C ++."
+What is this research paper about?,"However, none of these languages well balance both
+efficiency and simplicity."
+What is this research paper about?,"The Julia language is a fast, easy-to-use, and
+open-source programming language that was originally designed for
+high-performance computing, which can well balance the efficiency and
+simplicity."
+What is this research paper about?,"This paper summarizes the related research work and developments in
+the application of the Julia language in machine learning."
+What is this research paper about?,"It first surveys the
+popular machine learning algorithms that are developed in the Julia language."
+What is this research paper about?,"Then, it investigates applications of the machine learning algorithms
+implemented with the Julia language."
+What is this research paper about?,"Finally, it discusses the open issues and
+the potential future directions that arise in the use of the Julia language in
+machine learning."
+Who are the authors of this paper?,"Kaifeng Gao, Gang Mei, Francesco Piccialli, Salvatore Cuomo, Jingzhi Tu, Zenan Huo"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-03-23 00:00:00
+What is the title of the research paper?,"Modeling Generalization in Machine Learning: A Methodological and
+  Computational Study"
+What is this research paper about?,"As machine learning becomes more and more available to the general public,
+theoretical questions are turning into pressing practical issues."
+What is this research paper about?,"Possibly, one
+of the most relevant concerns is the assessment of our confidence in trusting
+machine learning predictions."
+What is this research paper about?,"In many real-world cases, it is of utmost
+importance to estimate the capabilities of a machine learning algorithm to
+generalize, i.e., to provide accurate predictions on unseen data, depending on
+the characteristics of the target problem."
+What is this research paper about?,"In this work, we perform a
+meta-analysis of 109 publicly-available classification data sets, modeling
+machine learning generalization as a function of a variety of data set
+characteristics, ranging from number of samples to intrinsic dimensionality,
+from class-wise feature skewness to $F1$ evaluated on test samples falling
+outside the convex hull of the training set."
+What is this research paper about?,"Experimental results demonstrate
+the relevance of using the concept of the convex hull of the training data in
+assessing machine learning generalization, by emphasizing the difference
+between interpolated and extrapolated predictions."
+What is this research paper about?,"Besides several predictable
+correlations, we observe unexpectedly weak associations between the
+generalization ability of machine learning models and all metrics related to
+dimensionality, thus challenging the common assumption that the \textit{curse
+of dimensionality} might impair generalization in machine learning."
+Who are the authors of this paper?,"Pietro Barbiero, Giovanni Squillero, Alberto Tonda"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2020-06-28 00:00:00
+What is the title of the research paper?,Mental Models of Adversarial Machine Learning
+What is this research paper about?,"Although machine learning is widely used in practice, little is known about
+practitioners' understanding of potential security challenges."
+What is this research paper about?,"In this work, we
+close this substantial gap and contribute a qualitative study focusing on
+developers' mental models of the machine learning pipeline and potentially
+vulnerable components."
+What is this research paper about?,"Similar studies have helped in other security fields to
+discover root causes or improve risk communication."
+What is this research paper about?,"Our study reveals two
+\facets of practitioners' mental models of machine learning security."
+What is this research paper about?,"Firstly,
+practitioners often confuse machine learning security with threats and defences
+that are not directly related to machine learning."
+What is this research paper about?,"Secondly, in contrast to
+most academic research, our participants perceive security of machine learning
+as not solely related to individual models, but rather in the context of entire
+workflows that consist of multiple components."
+What is this research paper about?,"Jointly with our additional
+findings, these two facets provide a foundation to substantiate mental models
+for machine learning security and have implications for the integration of
+adversarial machine learning into corporate workflows, \new{decreasing
+practitioners' reported uncertainty}, and appropriate regulatory frameworks for
+machine learning security."
+Who are the authors of this paper?,"Lukas Bieringer, Kathrin Grosse, Michael Backes, Battista Biggio, Katharina Krombholz"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-05-08 00:00:00
+What is the title of the research paper?,"Applying Machine Learning to Life Insurance: some knowledge sharing to
+  master it"
+What is this research paper about?,"Machine Learning permeates many industries, which brings new source of
+benefits for companies."
+What is this research paper about?,"However within the life insurance industry, Machine
+Learning is not widely used in practice as over the past years statistical
+models have shown their efficiency for risk assessment."
+What is this research paper about?,"Thus insurers may face
+difficulties to assess the value of the artificial intelligence."
+What is this research paper about?,"Focusing on
+the modification of the life insurance industry over time highlights the stake
+of using Machine Learning for insurers and benefits that it can bring by
+unleashing data value."
+What is this research paper about?,"This paper reviews traditional actuarial methodologies
+for survival modeling and extends them with Machine Learning techniques."
+What is this research paper about?,"It
+points out differences with regular machine learning models and emphasizes
+importance of specific implementations to face censored data with machine
+learning models family."
+What is this research paper about?,"In complement to this article, a Python library has
+been developed."
+What is this research paper about?,"Different open-source Machine Learning algorithms have been
+adjusted to adapt the specificities of life insurance data, namely censoring
+and truncation."
+What is this research paper about?,"Such models can be easily applied from this SCOR library to
+accurately model life insurance risks."
+Who are the authors of this paper?,"Antoine Chancel, Laura Bradier, Antoine Ly, Razvan Ionescu, Laurene Martin, Marguerite Sauce"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2022-09-05 00:00:00
+What is the title of the research paper?,Machine learning and domain decomposition methods -- a survey
+What is this research paper about?,"Hybrid algorithms, which combine black-box machine learning methods with
+experience from traditional numerical methods and domain expertise from diverse
+application areas, are progressively gaining importance in scientific machine
+learning and various industrial domains, especially in computational science
+and engineering."
+What is this research paper about?,"In the present survey, several promising avenues of research
+will be examined which focus on the combination of machine learning (ML) and
+domain decomposition methods (DDMs)."
+What is this research paper about?,"The aim of this survey is to provide an
+overview of existing work within this field and to structure it into domain
+decomposition for machine learning and machine learning-enhanced domain
+decomposition, including: domain decomposition for classical machine learning,
+domain decomposition to accelerate the training of physics-aware neural
+networks, machine learning to enhance the convergence properties or
+computational efficiency of DDMs, and machine learning as a discretization
+method in a DDM for the solution of PDEs."
+What is this research paper about?,"In each of these fields, we summarize
+existing work and key advances within a common framework and, finally, disuss
+ongoing challenges and opportunities for future research."
+Who are the authors of this paper?,"Axel Klawonn, Martin Lanser, Janine Weber"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2023-12-21 00:00:00
+What is the title of the research paper?,"Beyond Model Interpretability: Socio-Structural Explanations in Machine
+  Learning"
+What is this research paper about?,What is it to interpret the outputs of an opaque machine learning model.
+What is this research paper about?,"One
+approach is to develop interpretable machine learning techniques."
+What is this research paper about?,"These
+techniques aim to show how machine learning models function by providing either
+model centric local or global explanations, which can be based on mechanistic
+interpretations revealing the inner working mechanisms of models or
+nonmechanistic approximations showing input feature output data relationships."
+What is this research paper about?,"In this paper, we draw on social philosophy to argue that interpreting machine
+learning outputs in certain normatively salient domains could require appealing
+to a third type of explanation that we call sociostructural explanation."
+What is this research paper about?,"The
+relevance of this explanation type is motivated by the fact that machine
+learning models are not isolated entities but are embedded within and shaped by
+social structures."
+What is this research paper about?,"Sociostructural explanations aim to illustrate how social
+structures contribute to and partially explain the outputs of machine learning
+models."
+What is this research paper about?,"We demonstrate the importance of sociostructural explanations by
+examining a racially biased healthcare allocation algorithm."
+What is this research paper about?,"Our proposal
+highlights the need for transparency beyond model interpretability,
+understanding the outputs of machine learning systems could require a broader
+analysis that extends beyond the understanding of the machine learning model
+itself."
+Who are the authors of this paper?,"Andrew Smart, Atoosa Kasirzadeh"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2024-09-05 00:00:00
+What is the title of the research paper?,"Aspects of Artificial Intelligence: Transforming Machine Learning
+  Systems Naturally"
+What is this research paper about?,"In this paper, we study the machine learning elements which we are interested
+in together as a machine learning system, consisting of a collection of machine
+learning elements and a collection of relations between the elements."
+What is this research paper about?,"The
+relations we concern are algebraic operations, binary relations, and binary
+relations with composition that can be reasoned categorically."
+What is this research paper about?,"A machine
+learning system transformation between two systems is a map between the
+systems, which preserves the relations we concern."
+What is this research paper about?,"The system transformations
+given by quotient or clustering, representable functor, and Yoneda embedding
+are highlighted and discussed by machine learning examples."
+What is this research paper about?,"An adjunction
+between machine learning systems, a special machine learning system
+transformation loop, provides the optimal way of solving problems."
+What is this research paper about?,"Machine
+learning system transformations are linked and compared by their maps at
+2-cell, natural transformations."
+What is this research paper about?,"New insights and structures can be obtained
+from universal properties and algebraic structures given by monads, which are
+generated from adjunctions."
+Who are the authors of this paper?,Xiuzhan Guo
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2025-02-03 00:00:00
+What is the title of the research paper?,Information Theory and its Relation to Machine Learning
+What is this research paper about?,"In this position paper, I first describe a new perspective on machine
+learning (ML) by four basic problems (or levels), namely, ""What to learn?"
+What is this research paper about?,""",
+""How to learn?"
+What is this research paper about?,""", ""What to evaluate?"
+What is this research paper about?,""", and ""What to adjust?""."
+What is this research paper about?,"The paper stresses
+more on the first level of ""What to learn?"
+What is this research paper about?,""", or ""Learning Target Selection""."
+What is this research paper about?,"Towards this primary problem within the four levels, I briefly review the
+existing studies about the connection between information theoretical learning
+(ITL [1]) and machine learning."
+What is this research paper about?,"A theorem is given on the relation between the
+empirically-defined similarity measure and information measures."
+What is this research paper about?,"Finally, a
+conjecture is proposed for pursuing a unified mathematical interpretation to
+learning target selection."
+Who are the authors of this paper?,Bao-Gang Hu
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2015-01-18 00:00:00
+What is the title of the research paper?,Discussion on Mechanical Learning and Learning Machine
+What is this research paper about?,"Mechanical learning is a computing system that is based on a set of simple
+and fixed rules, and can learn from incoming data."
+What is this research paper about?,"A learning machine is a
+system that realizes mechanical learning."
+What is this research paper about?,"Importantly, we emphasis that it is
+based on a set of simple and fixed rules, contrasting to often called machine
+learning that is sophisticated software based on very complicated mathematical
+theory, and often needs human intervene for software fine tune and manual
+adjustments."
+What is this research paper about?,"Here, we discuss some basic facts and principles of such system,
+and try to lay down a framework for further study."
+What is this research paper about?,"We propose 2 directions to
+approach mechanical learning, just like Church-Turing pair: one is trying to
+realize a learning machine, another is trying to well describe the mechanical
+learning."
+Who are the authors of this paper?,Chuyu Xiong
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2016-01-31 00:00:00
+What is the title of the research paper?,Learning Theory and Support Vector Machines - a primer
+What is this research paper about?,"The main goal of statistical learning theory is to provide a fundamental
+framework for the problem of decision making and model construction based on
+sets of data."
+What is this research paper about?,"Here, we present a brief introduction to the fundamentals of
+statistical learning theory, in particular the difference between empirical and
+structural risk minimization, including one of its most prominent
+implementations, i.e."
+What is this research paper about?,the Support Vector Machine.
+Who are the authors of this paper?,Michael Banf
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-02-12 00:00:00
+What is the title of the research paper?,Financial Time Series Data Processing for Machine Learning
+What is this research paper about?,"This article studies the financial time series data processing for machine
+learning."
+What is this research paper about?,"It introduces the most frequent scaling methods, then compares the
+resulting stationarity and preservation of useful information for trend
+forecasting."
+What is this research paper about?,"It proposes an empirical test based on the capability to learn
+simple data relationship with simple models."
+What is this research paper about?,"It also speaks about the data
+split method specific to time series, avoiding unwanted overfitting and
+proposes various labelling for classification and regression."
+Who are the authors of this paper?,Fabrice Daniel
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2019-07-03 00:00:00
+What is the title of the research paper?,Machine Learning using Stata/Python
+What is this research paper about?,"We present two related Stata modules, r_ml_stata and c_ml_stata, for fitting
+popular Machine Learning (ML) methods both in regression and classification
+settings."
+What is this research paper about?,"Using the recent Stata/Python integration platform (sfi) of Stata 16,
+these commands provide hyper-parameters' optimal tuning via K-fold
+cross-validation using greed search."
+What is this research paper about?,"More specifically, they make use of the
+Python Scikit-learn API to carry out both cross-validation and outcome/label
+prediction."
+Who are the authors of this paper?,Giovanni Cerulli
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2021-03-03 00:00:00
+What is the title of the research paper?,Pen and Paper Exercises in Machine Learning
+What is this research paper about?,This is a collection of (mostly) pen-and-paper exercises in machine learning.
+What is this research paper about?,"The exercises are on the following topics: linear algebra, optimisation,
+directed graphical models, undirected graphical models, expressive power of
+graphical models, factor graphs and message passing, inference for hidden
+Markov models, model-based learning (including ICA and unnormalised models),
+sampling and Monte-Carlo integration, and variational inference."
+Who are the authors of this paper?,Michael U. Gutmann
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2022-06-27 00:00:00
+What is the title of the research paper?,Classic machine learning methods
+What is this research paper about?,"In this chapter, we present the main classic machine learning methods."
+What is this research paper about?,"A
+large part of the chapter is devoted to supervised learning techniques for
+classification and regression, including nearest-neighbor methods, linear and
+logistic regressions, support vector machines and tree-based algorithms."
+What is this research paper about?,"We
+also describe the problem of overfitting as well as strategies to overcome it."
+What is this research paper about?,"We finally provide a brief overview of unsupervised learning methods, namely
+for clustering and dimensionality reduction."
+Who are the authors of this paper?,"Johann Faouzi, Olivier Colliot"
+What are the research categories of this paper?,No Categories Mentioned
+When was this paper published?,2023-05-24 00:00:00
+What are the top 5 latest research papers on Water Purification?,"The top 5 papers on Water Purification are: , published on ."
